@@ -16,4 +16,7 @@
     <string name="selinux_status_disabled">Disabled</string>
     <string name="selinux_status_permissive">Permissive</string>
     <string name="selinux_status_enforcing">Enforcing</string>
+
+    <!-- Settings version info -->
+    <string name="dessert_version">Dessert version</string>
 </resources>
