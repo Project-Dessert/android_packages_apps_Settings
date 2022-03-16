@@ -11,18 +11,13 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <!-- SELinux Status -->
-    <string name="selinux_status">SELinux status</string>
-    <string name="selinux_status_disabled">Disabled</string>
-    <string name="selinux_status_permissive">Permissive</string>
-    <string name="selinux_status_enforcing">Enforcing</string>
-
-    <!-- Settings info -->
-    <string name="dessert_version">Dessert version</string>
-    <string name="device_maintainer">Device Maintainer</string>
-
     <!-- Power menu type -->
-    <string name="power_menu_type">Power menu type</string>
-    <string name="power_menu_type_lite">Lite (A12)</string>
-    <string name="power_menu_type_full">Full (A11)</string>
+    <string-array name="power_menu_type_entries">
+        <item>@string/power_menu_type_lite</item>
+        <item>@string/power_menu_type_full</item>
+    </string-array>
+    <string-array name="power_menu_type_values">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
 </resources>
