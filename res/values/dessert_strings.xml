@@ -19,4 +19,6 @@
 
     <!-- Settings version info -->
     <string name="dessert_version">Dessert version</string>
+
+    <string name="device_maintainer">Device Maintainer</string>
 </resources>
