@@ -15,6 +15,10 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- AdBlock -->
+    <string name="enable_adblock">Enable AdBlock</string>
+    <string name="enable_adblock_summary">Blocks various ads and trackers system-wide.</string>
+
     <!-- Hardware info -->
     <!-- Label for device's hardware platform value [CHAR LIMIT=40] -->
     <string name="platform_revision">Platform</string>
