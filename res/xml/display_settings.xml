@@ -222,7 +222,7 @@
             android:defaultValue="false"
             lineage:requiresFeature="lineagehardware:FEATURE_HIGH_TOUCH_SENSITIVITY" />
 
-        <org.eu.materium.support.preferences.SecureSettingListPreference
+        <ListPreference
             android:key="power_menu_type"
             android:title="@string/power_menu_type"
             android:summary="%s"
