@@ -15,12 +15,6 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <!-- QS tile shape -->
-    <string name="qs_tile_shape">QS tile shape</string>
-    <string name="qs_tile_round">Round</string>
-    <string name="qs_tile_rect">Rounded Rectangle</string>
-    <string name="qs_tile_mix">Round for active tiles and Rounded Rectangle for inactive tiles</string>
-
     <!-- Hardware info -->
     <!-- Label for device's hardware platform value [CHAR LIMIT=40] -->
     <string name="platform_revision">Platform</string>
